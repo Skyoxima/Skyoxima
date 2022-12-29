@@ -13,8 +13,8 @@
 
 ### Languages and Tools (ordered according to proficiency😛)
 <hr>
-<img style="width: 3.5%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"/>
-<img style="width: 3.5%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+<img style="width: 25px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"/>
+<img style="width: 25px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
 <hr>
 <!-- Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=skyoxima&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/> &nbsp; <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
