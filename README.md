@@ -1,3 +1,6 @@
+<!-- Header border -->
+<img src="assets/line_divider.png" alt="topDivider">
+
 <!-- Brief Description -->
 - 📚 I'm currently studying Computer Science Engineering (Data Science) at [D.J. Sanghvi College of Engineering.](https://www.djsce.ac.in/)
   
