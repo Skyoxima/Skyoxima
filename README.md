@@ -13,14 +13,11 @@
 
 ### Languages and Tools (ordered according to proficiency😛)
 <hr>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
 <hr>
 <!-- Stats -->
-<div style="width: 100%; display: flex; align-items: center; justify-content: space-between;">
-  <img style="height: 100%; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
-  
-  <a href="https://git.io/streak-stats"><img style="height: 100%; width: 40%;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=skyoxima&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/> &nbsp; <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
 
 <!-- Footer border -->
 <img src="assets/line_divider_color.png" alt="topDivider">
