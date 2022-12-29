@@ -13,11 +13,18 @@
 
 ### Languages and Tools (ordered according to proficiency😛)
 <hr>
-<img style="width: 25px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"/>
-<img style="width: 25px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"/> &nbsp;
+<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> &nbsp;
+<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/> &nbsp;
 <hr>
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=skyoxima&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/> &nbsp; <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
 
+<!-- Stats -->
+<br>
+<div style="min-width: 100%; height: 40%; position: relative; display: flex; align-items: center; justify-content: space-between;">
+  <img style="height: 100%; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/> 
+  <a href="https://git.io/streak-stats"><img style="height: 100%; width: 40%;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
+</div>
+
+<br>
 <!-- Footer border -->
 <img src="assets/line_divider_color.png" alt="topDivider">
