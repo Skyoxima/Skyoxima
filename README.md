@@ -14,19 +14,29 @@
 ### Languages and Tools (ordered according to proficiency😛)
 <hr>
 <div style="display: flex; align-items: top; justify-content: left;">
+<p style="font-size: 1.5em;">Languages</p><br>
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"/> 
-<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/> 
-<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/> 
+<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML"/> 
+<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/> 
+<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/> 
+<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" title="Scala"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin"/> 
+</div>
+<div style="display: flex; align-items: top; justify-content: left;">
+<p style="font-size: 1.5em;">Libraries and Frameworks</p><br>
+<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/> 
+<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" title="TailwindCSS"/> 
 </div>
 <hr>
 
 <!-- Stats -->
+#### Stats 📊✨
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=skyoxima&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/> &nbsp; &nbsp; <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
+<img style="width: 300px; height: 250px;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
+<a href="https://git.io/streak-stats"><img style="width : 300px; height: 250px;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
