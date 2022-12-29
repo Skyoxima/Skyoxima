@@ -1,5 +1,5 @@
 <!-- Header border -->
-<img src="assets/line_divider.png" alt="topDivider" style="color: skyblue; height: 200px;">
+<img src="assets/line_divider_color.png" alt="topDivider">
 
 <!-- Brief Description -->
 - 📚 I'm currently studying Computer Science Engineering (Data Science) at [D.J. Sanghvi College of Engineering.](https://www.djsce.ac.in/)
