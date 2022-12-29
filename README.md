@@ -13,7 +13,7 @@
 
 ### Languages and Tools (ordered according to proficiency😛)
 <hr>
-<p style="font-size: 2em; font-weight: 700; font-style: italic;">Languages</p>
+<p style="font-size: 20px; text-decoration: 1px solid underline"><em>Languages</em></p>
 <div style="display: flex; justify-content: left;">
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/> 
@@ -26,7 +26,7 @@
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" title="Go"/> 
 </div><br>
-<p style="font-size: 2em; font-weight: 700; font-style: italic;">Libraries and Frameworks</p>
+<p style="font-size: 20px; text-decoration: 1px solid underline"><em>Libraries and Frameworks</em></p>
 <div style="display: flex; justify-content: left;">
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" title="NumPy"/> 
@@ -35,7 +35,7 @@
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" title="NodeJS"/> 
 </div><br>
-<p style="font-size: 2em; font-weight: 700; font-style: italic;">Other Tools</p>
+<p style="font-size: 20px; text-decoration: 1px solid underline"><em>Other Tools</em></p>
 <div style="display: flex; justify-content: left;">
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub"/> 
@@ -46,11 +46,11 @@
 <!-- Stats -->
 ### Stats 📊✨
 <hr>
-<div>
+<div style="display: flex; align-items: center; justify-content: center;">
 <a href="https://git.io/streak-stats"><img style="width: 500px; height: 375px;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
 <img style="width: 500px; height: 375px;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <br>
 <!-- Footer border -->
