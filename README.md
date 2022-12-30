@@ -14,8 +14,8 @@
 ### 📫 How to reach me
 <hr>
 
-<a href="mailto:samarth.tumdi@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
-<a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
+<a href="mailto:samarth.tumdi@gmail.com"><img style="width: 35px;" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img style="width: 35px;" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
 <br>
 
 ### Languages and Tools (ordered according to proficiency😛)
@@ -70,6 +70,8 @@
 <hr>
 
 - <a target="_blank" href="https://icons8.com/icon/114445/linkedin-circled">LinkedIn Circled icon by Icons8</a> 
+  
+  
 
 <img src="assets/only-bg.gif" alt="footer banner">
 <!-- Footer border -->
