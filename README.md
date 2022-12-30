@@ -72,7 +72,6 @@
 
 - <a target="_blank" href="https://icons8.com/icon/114445/linkedin-circled">LinkedIn Circled icon by Icons8</a> 
 
-<img src="assets/line_divider_color.png" alt="bottomDivider">
 <img src="assets/only-bg.gif" alt="footer banner">
 <!-- Footer border -->
 <img src="assets/line_divider_color.png" alt="bottomDivider">
