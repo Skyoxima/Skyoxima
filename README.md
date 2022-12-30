@@ -15,7 +15,7 @@
 <hr>
 
 <a href="mailto:samarth.tumdi@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
-<a target="_blank" href="https://icons8.com"><a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img src="https://icons8.com/icon/114445/linkedin-circled" width="3.5%" /></a></a>
+<a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
 <br>
 
 ### Languages and Tools (ordered according to proficiency😛)
