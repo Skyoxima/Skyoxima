@@ -1,5 +1,4 @@
 <!-- Header border -->
-<img src="assets/line_divider_color.png" alt="topDivider">
 <img src="assets/top-banner.gif" alt="name">
 <img src="assets/line_divider_color.png" alt="topDivider">
 
