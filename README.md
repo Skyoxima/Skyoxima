@@ -1,5 +1,6 @@
 <!-- Header border -->
-<img src="assets\top-banner_2.gif" alt="name">
+<img src="assets/line_divider_color.png" alt="topDivider">
+<img src="assets/top-banner.gif" alt="name">
 <img src="assets/line_divider_color.png" alt="topDivider">
 
 <!-- Brief Description -->
@@ -66,6 +67,12 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
   
-<img src="only-bg.png" alt="name">
+### Resources Credits 📊✨
+<hr>
+
+- <a target="_blank" href="https://icons8.com/icon/114445/linkedin-circled">LinkedIn Circled icon by Icons8</a> 
+
+<img src="assets/line_divider_color.png" alt="bottomDivider">
+<img src="assets/only-bg.gif" alt="footer banner">
 <!-- Footer border -->
 <img src="assets/line_divider_color.png" alt="bottomDivider">
