@@ -1,9 +1,9 @@
 <!-- Header border -->
-<img src="assets\top-banner.gif" alt="name">
+<img src="assets\top-banner_2.gif" alt="name">
 <img src="assets/line_divider_color.png" alt="topDivider">
 
 <!-- Brief Description -->
-### 📃 About me
+### 📃 Brief Description of what am I upto!
 <hr>
 
 - 📚 I'm currently studying **Computer Science Engineering (Data Science)** at [D.J. Sanghvi College of Engineering.](https://www.djsce.ac.in/)
@@ -14,7 +14,8 @@
 ### 📫 How to reach me
 <hr>
 
-<a href="mailto:samarth.tumdi@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<a href="mailto:samarth.tumdi@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
+<a target="_blank" href="https://icons8.com"><a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img src="https://icons8.com/icon/114445/linkedin-circled" width="3.5%" /></a></a>
 <br>
 
 ### Languages and Tools (ordered according to proficiency😛)
@@ -54,18 +55,17 @@
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Deep_Learning_Practice&border_radius=20&layout=compact)](https://github.com/skyoxima/github-readme-stats)
-&nbsp;
+  
+
 <div>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
-&nbsp;
+  
 
 <img src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
-&nbsp;
 </div>
-
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-&nbsp;
-<br>
-
+  
+<img src="only-bg.png" alt="name">
 <!-- Footer border -->
 <img src="assets/line_divider_color.png" alt="bottomDivider">
