@@ -62,9 +62,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Deep_Learning_Practice&border_radius=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 
-<div style="height: 450px; display: grid; align-items: center;">
-<a href="https://git.io/streak-stats"><img style="height: 100%; width: 350px;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
-<img style="height: 100%; width: 350px;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
+<div style="display: grid; align-items: center;">
+<a href="https://git.io/streak-stats"><img style="height: 200px; width: 350px;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
+<img style="height: 200px; width: 350px;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
 </div><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
