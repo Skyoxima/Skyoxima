@@ -4,7 +4,7 @@
 
 <!-- Brief Description -->
 ### 📃 Brief description of what I'm upto!
-<hr>
+<img src="./assets/color-border.svg" alt="border-bottom colored"/>
 
 - 📚 I'm currently studying **Computer Science Engineering (Data Science)** at [D.J. Sanghvi College of Engineering.](https://www.djsce.ac.in/)
 - 🌱 I'm currently learning Machine Learning, Front-End Web Development and Data Structures-Algorithms.
@@ -18,7 +18,7 @@
 <br>
 
 ### Languages and Tools
-<hr>
+<img src="./assets/color-border.svg" alt="border-bottom colored"/>
 <em>Languages</em>
 <div style="display: flex; justify-content: left;">
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"/> 
@@ -57,7 +57,7 @@
   
 <!-- Stats -->
 ### Stats 📊✨
-<hr>
+<img src="./assets/color-border.svg" alt="border-bottom colored"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Deep_Learning_Practice&border_radius=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
