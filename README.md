@@ -11,10 +11,10 @@
 - 💬 Ask me about UI designs, YouTube and Pokémon!
 
 <!-- Contact -->
-### 📫 How to reach me
-<img src="./assets/color-border.svg" alt="border-bottom colored"/>
+<p> <h3>📫 Connect with me:</h3> &nbsp; &nbsp;
 <a href="mailto:samarth.tumdi@gmail.com"><img style="width: 35px;" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img style="width: 35px;" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
+</p>
 <br>
 
 ### Languages and Tools
