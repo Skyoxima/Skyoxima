@@ -12,13 +12,13 @@
 
 <!-- Contact -->
 ### 📫 How to reach me
-<hr style="border: 1px solid #d00484">
+<div style="margin: 0; padding: 0; box-sizing: border-box; border: 1px solid #d00484;">
 
 <a href="mailto:samarth.tumdi@gmail.com"><img style="width: 35px;" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img style="width: 35px;" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
 <br>
 
-### Languages and Tools (according to proficiency😛)
+### Languages and Tools <sub>(according to proficiency😛)</sub>
 <hr>
 <em>Languages</em>
 <div style="display: flex; justify-content: left;">
@@ -62,16 +62,27 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Deep_Learning_Practice&border_radius=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Streak Stats](https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600)](https://git.io/streak-stats) &nbsp; ![Grade Stats](https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true)
-<!-- <div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
-<img src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
-</div> -->
+<!-- [![Streak Stats](https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600)](https://git.io/streak-stats) &nbsp; ![Grade Stats](https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true) -->
+<div style="display: grid; align-items: center; justify-content: center">
+<a href="https://git.io/streak-stats"><img style="height: 100%; width:40%;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
+<img style="height: 100%; width:40%;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
+</div>
   
+  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
   
-### Resources Credits 🙏
+<details>
+<summary><h3>A bit more about me<h3></summary>
+<p>
+I am Samarth Tumdi, but go by Skyoxima here, my "Internet name". I am a 19y/o who was always fascinated by computers, basically grew with them from making PowerPoint presentations about numbers using WordArt when I was 5-6 (fond memories😊), playing games, to eventually learning about programming and understanding the process of making my machine do what I've imagined in my mind. 
+</p>
+<p>
+As I've mentioned at the top, I am a student as of now and currently I'm leanring both core Computer Science concepts, Web Development as well as Machine Learning. I've not yet decided my final vocation amongst these 3 as I am quite interested and passionate for each of them and this account will act as a "sanctuary" of everything I am learning. I hope it becomes something worthwhile and enjoyable!
+</p>
+</details> 
 
+### Resources Credits 🙏
 - <a target="_blank" href="https://icons8.com"><em>Reach me</em> icons</a> 
 - <a target="_blank" href="https://github.com/devicons/devicon">Icons for <em>Languages and Tools</em> section.</a> 
   
