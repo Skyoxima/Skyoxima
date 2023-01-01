@@ -11,13 +11,25 @@
 - 💬 Ask me about UI designs, YouTube and Pokémon!
 
 <!-- Contact -->
-<h3 style="border-bottom: 1px solid #d00484">📫 How to reach me</h3>
-
+<!-- <h3 style="border-bottom: 1px solid #d00484; padding-bottom: 10px;">📫 How to reach me</h3> -->
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 800 1" width="800" height="1">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.main-text {
+          border-bottom: 1px solid #d00484;
+          padding-bottom: 10px;
+        }
+			</style>
+				<h3 class="main-text">📫 How to reach me</h3>
+		</div>
+	</foreignObject>
+</svg>
 <a href="mailto:samarth.tumdi@gmail.com"><img style="width: 35px;" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img style="width: 35px;" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
 <br>
 
-### Languages and Tools <span><h6>(according to proficiency😛)<h6></span>
+### Languages and Tools (according to proficiency😛)
 <hr>
 <em>Languages</em>
 <div style="display: flex; justify-content: left;">
@@ -62,9 +74,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Deep_Learning_Practice&border_radius=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <!-- [![Streak Stats](https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600)](https://git.io/streak-stats) &nbsp; ![Grade Stats](https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true) -->
-<div style="display: grid; align-items: center; justify-content: space-between">
-<a href="https://git.io/streak-stats"><img style="height: 100%; width:45%;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
-<img style="height: 100%; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
+<div style="display: grid; align-items: center;">
+<a href="https://git.io/streak-stats"><img style="height: 100%; width: 300px;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
+<img style="height: 100%; width: 300px;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
 </div><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
