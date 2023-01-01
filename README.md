@@ -11,27 +11,26 @@
 - 💬 Ask me about UI designs, YouTube and Pokémon!
 
 <!-- Contact -->
-<p> <h3>📫 Connect with me:</h3> &nbsp; &nbsp;
+<p><font size="5">📫 Connect with me:</font> &nbsp; &nbsp;
 <a href="mailto:samarth.tumdi@gmail.com"><img style="width: 35px;" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img style="width: 35px;" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
+<a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img style="width: 35px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"/></a>
 </p>
-<br>
 
-### Languages and Tools
-<img src="./assets/color-border.svg" alt="border-bottom colored"/>
-<em>Languages</em>
-<div style="display: flex; justify-content: left;">
-<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"/> 
+<p><h3>👨‍💻 Languages and Tools<h3><br><img src="./assets/color-border.svg" alt="border-bottom colored"/></p>
+<!-- <img src="./assets/color-border.svg" alt="border-bottom colored"/> -->
+<p>
+<em>Languages</em><br>
+<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"/>&nbsp; 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> 
-<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" title="Scala"/> 
-<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin"/> 
-<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" title="Go"/> 
-</div><br>
+<img style="width: 32px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" title="Scala"/> 
+<img style="width: 32px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin"/> 
+<img style="width: 38px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" title="Go"/> 
+</p>
 <em>Libraries and Frameworks</em>
 <div style="display: flex; justify-content: left;">
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/> 
@@ -41,22 +40,21 @@
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" title="NodeJS"/> 
 </div><br>
-<em>Other Tools (Programming)</em>
+
+<em>Other Tools</em>
 <div style="display: flex; justify-content: left;">
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode"/> 
-</div><br>
-<em>Other Tools (Extra)</em>
-<div style="display: flex; justify-content: left;">
-<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" title="Adobe After Effects"/> 
-<img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/> 
+<img style="width: 35px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" alt="IntelliJ" title="IntelliJ"/> 
+<img style="width: 35px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AfterEffects.svg" alt="Adobe After Effects" title="Adobe After Effects"/> 
+<img style="width: 35px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/> 
 <img style="width: 35px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg" alt="Audacity" title="Audacity"/> 
 </div>
   
 <!-- Stats -->
-### Stats 📊✨
+### 📊 Stats ✨
 <img src="./assets/color-border.svg" alt="border-bottom colored"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Deep_Learning_Practice&border_radius=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -80,9 +78,9 @@ As I've mentioned at the top, I am a student as of now and currently I'm leanrin
 </details> 
 
 ### Resources Credits 🙏
-- <a target="_blank" href="https://icons8.com"><em>Reach me</em> icons</a> 
-- <a target="_blank" href="https://github.com/devicons/devicon">Icons for <em>Languages and Tools</em> section.</a> 
-  
+- <a target="_blank" href="https://github.com/devicons/devicon">Icons for <em>Languages and Tools</em> section - DevIcon</a> 
+- <a target="_blank" href="https://github.com/tandpfun/skill-icons">LinkedIn, IntelliJ, Adobe icons - Skill Icons</a> 
+- 
 
 <img src="assets/only-bg.gif" alt="footer banner">
 <!-- Footer border -->
