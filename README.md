@@ -11,13 +11,13 @@
 - 💬 Ask me about UI designs, YouTube and Pokémon!
 
 <!-- Contact -->
-<!-- <h3 style="border-bottom: 1px solid #d00484; padding-bottom: 10px;">📫 How to reach me</h3> -->
-<img src="./assets/reachme.svg" alt="reach-me-header" />
+<h3>📫 How to reach me</h3>
+<img src="./assets/color-border.svg" alt="border-bottom colored"/>
 <a href="mailto:samarth.tumdi@gmail.com"><img style="width: 35px;" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img style="width: 35px;" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
 <br>
 
-### Languages and Tools (according to proficiency😛)
+### Languages and Tools
 <hr>
 <em>Languages</em>
 <div style="display: flex; justify-content: left;">
@@ -53,8 +53,8 @@
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" title="Adobe After Effects"/> 
 <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/> 
 <img style="width: 35px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg" alt="Audacity" title="Audacity"/> 
-</div><br>
-
+</div>
+  
 <!-- Stats -->
 ### Stats 📊✨
 <hr>
@@ -62,9 +62,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Deep_Learning_Practice&border_radius=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 
-<div style="display: grid; align-items: center;">
-<a href="https://git.io/streak-stats"><img style="height: 200px; width: 350px;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
-<img style="height: 200px; width: 350px;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
+<div style="display: grid; align-items: center; justify-content: center;">
+<a height="0" href="https://git.io/streak-stats"><img style="width: 350px; height: 180px;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
+<img style="width: 350px; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
 </div><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
