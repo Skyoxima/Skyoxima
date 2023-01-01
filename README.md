@@ -11,7 +11,7 @@
 - 💬 Ask me about UI designs, YouTube and Pokémon!
 
 <!-- Contact -->
-<h3>📫 How to reach me</h3>
+### 📫 How to reach me
 <img src="./assets/color-border.svg" alt="border-bottom colored"/>
 <a href="mailto:samarth.tumdi@gmail.com"><img style="width: 35px;" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img style="width: 35px;" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png"/></a>
@@ -63,8 +63,8 @@
   
 
 <div style="display: grid; align-items: center; justify-content: center;">
-<a height="0" href="https://git.io/streak-stats"><img style="width: 350px; height: 180px;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
-<img style="width: 350px; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
+<a height="0" href="https://git.io/streak-stats"><img style="width: 350px; height: 100%;" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a>
+<img style="width: 350px; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
 </div><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
