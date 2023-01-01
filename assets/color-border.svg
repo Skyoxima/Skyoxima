@@ -1,12 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 900 20" width="900" height="20">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 700 10" width="700" height="10">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				.main {
-					margin: 0; padding: 0;
-					box-sizing: border-box;
           border-bottom: 1px solid #d00484;
-					margin-bottom: 10px;
         }
 			</style>
       <div class="main"></div>
