@@ -3,7 +3,7 @@
 <img src="assets/line_divider_color.png" alt="topDivider">
 
 <!-- Brief Description -->
-### 📃 Brief description of what I'm upto!
+### 📃 What am upto?
 <img src="./assets/color-border.svg" alt="border-bottom colored"/>
 
 - 📚 I'm currently studying **Computer Science Engineering (Data Science)** at [D.J. Sanghvi College of Engineering.](https://www.djsce.ac.in/)
@@ -11,9 +11,9 @@
 - 💬 Ask me about UI designs, YouTube and Pokémon!
 
 <!-- Contact -->
-<p><b>📫 Connect with me: </b>&nbsp; &nbsp;
-<a href="mailto:samarth.tumdi@gmail.com"><img width="20" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img width="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"/></a>
+<p><strong>📫 Connect with me: </strong>&nbsp;
+<a href="mailto:samarth.tumdi@gmail.com"><img width="25" src="./assets/google-gmail.svg"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img width="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"/></a> &nbsp;
 </p>
 
 <p><h3>👨‍💻 Skills</h3>
@@ -35,8 +35,8 @@
 <em>Libraries and Frameworks</em>
 <p>
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/>&nbsp; 
-  <img style="width: 35px;" src="assets/octocat.png" alt="NumPy" title="NumPy"/>&nbsp; 
-  <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" title="Pandas"/>&nbsp; 
+  <img style="width: 35px;" src="assets/numpy.png" alt="NumPy" title="NumPy"/>&nbsp; 
+  <img style="width: 35px;" src="assets/pandas.png" alt="Pandas" title="Pandas"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" title="TailwindCSS"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" title="NodeJS"/>&nbsp; 
@@ -57,16 +57,18 @@
 <!-- Stats -->
 ### 📊 Stats ✨
 <img src="./assets/color-border.svg" alt="border-bottom colored"/>
-
-<p>
-<a href="https://git.io/streak-stats"><img width="43%" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a> &nbsp; &nbsp; <img width="50%" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
-</p>
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Deep_Learning_Practice&border_radius=20&layout=compact" alt="Top Languages"/></a>
+<a href="https://git.io/streak-stats"><img width="45%" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a> &nbsp; &nbsp; <a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/></a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&margin-w=15&no-bg=true)]()
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Deep_Learning_Practice&border_radius=20&layout=compact" alt="Top Languages"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&margin-w=15&no-bg=true" /></a>
+</p>
+<!-- The markdown way, keeping it here for future reference -> ! signifies image, [] has the alt text and () has the source -->
+<!-- Similar is the case for the outer [] only that it's a direct anchor, making the img has a hyperlink -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
   
 <details>
 <summary><h3>A bit more about me<h3></summary>
@@ -80,7 +82,7 @@ As I've mentioned at the top, I am a student as of now and currently I'm leanrin
 <img src="./assets/color-border.svg" alt="border-bottom colored"/>
 
 ### 🙏 Resources Credits 
-- <a target="_blank" href="https://github.com/devicons/devicon">Icons for <em>Languages and Tools</em> section - DevIcon</a> 
+- <a target="_blank" href="https://github.com/devicons/devicon">Most icons in <em>Skills</em> section - DevIcon</a> 
 - <a target="_blank" href="https://github.com/tandpfun/skill-icons">LinkedIn, IntelliJ, Adobe icons - Skill Icons</a> 
 
 <img src="assets/only-bg.gif" alt="footer banner">
