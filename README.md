@@ -16,10 +16,8 @@
 <a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img width="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"/></a>
 </p>
 
-<p>
-  <h3>👨‍💻 Languages and Tools</h3>
-  <img src="./assets/color-border.svg" alt="border-bottom colored"/>
-</p>
+<p><h3>👨‍💻 Skills</h3>
+  <img src="./assets/color-border.svg" alt="border-bottom colored"/></p>
 <p><em>Languages</em></p>
 <p>
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"/>&nbsp; 
@@ -37,7 +35,7 @@
 <em>Libraries and Frameworks</em>
 <p>
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/>&nbsp; 
-  <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" title="NumPy"/>&nbsp; 
+  <img style="width: 35px;" src="assets/octocat.png" alt="NumPy" title="NumPy"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" title="Pandas"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" title="TailwindCSS"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL"/>&nbsp; 
@@ -47,7 +45,7 @@
 <em>Other Tools</em>
 <p>
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/>&nbsp; 
-  <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>&nbsp; 
+  <img style="width: 35px;" src="assets/octocat.png" alt="GitHub" title="GitHub"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" alt="IntelliJ" title="IntelliJ"/>&nbsp; 
@@ -60,13 +58,15 @@
 ### 📊 Stats ✨
 <img src="./assets/color-border.svg" alt="border-bottom colored"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Deep_Learning_Practice&border_radius=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
 <p>
-<a href="https://git.io/streak-stats"><img width="40%" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a> &nbsp; &nbsp; <img width="45%" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
+<a href="https://git.io/streak-stats"><img width="43%" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a> &nbsp; &nbsp; <img width="50%" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Deep_Learning_Practice&border_radius=20&layout=compact" alt="Top Languages"/></a>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&margin-w=15&no-bg=true)]()
   
 <details>
 <summary><h3>A bit more about me<h3></summary>
@@ -77,6 +77,7 @@ I am Samarth Tumdi, but go by Skyoxima here, my "Internet name". I am a 19y/o wh
 As I've mentioned at the top, I am a student as of now and currently I'm leanring both core Computer Science concepts, Web Development as well as Machine Learning. I've not yet decided my final vocation amongst these 3 as I am quite interested and passionate for each of them and this account will act as a "sanctuary" of everything I am learning. I hope it becomes something worthwhile and enjoyable!
 </p>
 </details> 
+<img src="./assets/color-border.svg" alt="border-bottom colored"/>
 
 ### 🙏 Resources Credits 
 - <a target="_blank" href="https://github.com/devicons/devicon">Icons for <em>Languages and Tools</em> section - DevIcon</a> 
