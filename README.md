@@ -61,7 +61,7 @@
 <a href="https://git.io/streak-stats"><img width="45%" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a> &nbsp; &nbsp; <a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Deep_Learning_Practice,AI_Practice&border_radius=20&layout=compact" alt="Top Languages"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&hide=jupyter_notebook&border_radius=20&layout=compact" alt="Top Languages"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&margin-w=15&no-bg=true" /></a>
@@ -73,7 +73,7 @@
 <details>
 <summary><h3>A bit more about me<h3></summary>
 <p>
-I am Samarth Tumdi, but go by Skyoxima here, my "Internet name". I am a 19y/o who was always fascinated by computers, basically grew with them from making PowerPoint presentations about numbers using WordArt when I was 5-6 (fond memories😊), playing games, to eventually learning about programming and understanding the process of making my machine do what I've imagined in my mind. 
+I am Samarth Tumdi, but go by Skyoxima here, my "Internet name". I am a 19y/o who was always fascinated by computers, basically grew with them from making PowerPoint presentations about numbers using WordArt when I was 5-6, fond memories😊; playing games (Road Rash😌), to eventually learning about programming and understanding the process of making my machine do what I've imagined in my mind. 
 </p>
 <p>
 As I've mentioned at the top, I am a student as of now and currently I'm leanring both core Computer Science concepts, Web Development as well as Machine Learning. I've not yet decided my final vocation amongst these 3 as I am quite interested and passionate for each of them and this account will act as a "sanctuary" of everything I am learning. I hope it becomes something worthwhile and enjoyable!
