@@ -3,7 +3,7 @@
 <img src="assets/line_divider_color.png" alt="topDivider">
 
 <!-- Brief Description -->
-### 📃 What am upto?
+### 📃 What am I upto?
 <img src="./assets/color-border.svg" alt="border-bottom colored"/>
 
 - 📚 I'm currently studying **Computer Science Engineering (Data Science)** at [D.J. Sanghvi College of Engineering.](https://www.djsce.ac.in/)
