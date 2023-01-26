@@ -66,7 +66,9 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&margin-w=15&no-bg=true" /></a>
 </p>
+
 > Some repositories are excluded in calculating Most Used Languages as they skew the results too much. E.g Jupyter and old C++
+
 <details>
 <summary><h3>A bit more about me<h3></summary>
 <p>
