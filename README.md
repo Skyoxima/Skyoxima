@@ -61,7 +61,7 @@
 <a href="https://git.io/streak-stats"><img width="45%" src="https://streak-stats.demolab.com?user=Skyoxima&theme=radical&border_radius=20&fire=FFD600"/></a> &nbsp; &nbsp; <a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=skyoxima&hide=commits&theme=radical&border_radius=20&locale=en&count_private=true&show_icons=true&include_all_commits=true"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&hide=jupyter%20notebook&langs_count=10&border_radius=20&layout=compact" alt="Top Languages"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyoxima&theme=radical&exclude_repo=Old-CPP-Proxima-Bank&hide=jupyter%20notebook&langs_count=10&border_radius=20&layout=compact" alt="Top Languages"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skyoxima&theme=radical&margin-w=15&no-bg=true" /></a>
