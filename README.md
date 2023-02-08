@@ -29,7 +29,7 @@
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> 
   <img style="width: 32px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" title="Scala"/> 
   <img style="width: 32px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin"/> 
-  <img style="width: 38px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" title="Go"/> 
+  <!-- <img style="width: 38px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" title="Go"/> -->
 </p>
 
 <em>Libraries and Frameworks</em>
