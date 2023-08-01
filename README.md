@@ -25,16 +25,17 @@
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML"/> 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS"/> 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/> 
+  <img style="width: 35px;" src="./assets/typescript-icon.svg" alt="TypeScript" title="TypeScript"/> 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/> 
-  <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> 
   <img style="width: 32px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" title="Scala"/> 
   <img style="width: 32px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin"/> 
-  <!-- <img style="width: 38px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" title="Go"/> -->
+  <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> 
 </p>
 
 <em>Libraries and Frameworks</em>
 <p>
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/>&nbsp; 
+  <img style="width: 35px;" src="./assets/svelte-icon.svg" alt="Svelte" title="Svelte"/>&nbsp; 
   <img style="width: 35px;" src="assets/numpy.png" alt="NumPy" title="NumPy"/>&nbsp; 
   <img style="width: 35px;" src="assets/pandas.png" alt="Pandas" title="Pandas"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" title="TailwindCSS"/>&nbsp; 
@@ -52,6 +53,8 @@
   <img style="width: 35px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AfterEffects.svg" alt="Adobe After Effects" title="Adobe After Effects"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/>&nbsp; 
   <img style="width: 35px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg" alt="Audacity" title="Audacity"/>&nbsp; 
+  <img style="width: 35px;" src="./assets/figma-icon.svg" alt="Figma" title="Figma"/>&nbsp; 
+  <img style="width: 35px;" src="./assets/canva-icon.svg" alt="Canva" title="Canva"/>&nbsp; 
 </p>
 
 <!-- Stats -->
