@@ -6,7 +6,7 @@
 ### 📃 What am I upto?
 <img src="./assets/color-border.svg" alt="border-bottom colored"/>
 
-- 📚 I'm a **Computer Science Engineering (Data Science)** graduate (2024) from [D.J. Sanghvi College of Engineering.](https://www.djsce.ac.in/)
+- 📚 I'm a **Computer Science Engineering (Data Science) graduate** (2024) from [D.J. Sanghvi College of Engineering.](https://www.djsce.ac.in/)
 - 🌱 Throughout my course, I've learnt about Machine Learning, Artificial Intelligence, Social Network Analysis, Front-End Web Development and Data Structures-Algorithms.
 - 💬 I love talking about UI designs, YouTube, Touhou Project and Pokémon!
 
@@ -38,8 +38,7 @@
   <img style="width: 35px;" src="./assets/svelte-icon.svg" alt="Svelte" title="Svelte"/>&nbsp; 
   <img style="width: 35px;" src="assets/numpy.png" alt="NumPy" title="NumPy"/>&nbsp; 
   <img style="width: 35px;" src="assets/pandas.png" alt="Pandas" title="Pandas"/>&nbsp; 
-  <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" title="TailwindCSS"/>&nbsp; 
-  <img style="width: 35px;" src="https://skillicons.dev/icons?i=js,html,css,wasm)" alt="TailwindCSS" title="TailwindCSS" />&nbsp; 
+  <img style="width: 35px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" title="TailwindCSS"/>&nbsp;  
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" title="NodeJS"/>&nbsp; 
 </p>
