@@ -6,13 +6,13 @@
 ### 📃 What am I upto?
 <img src="./assets/color-border.svg" alt="border-bottom colored"/>
 
-- 📚 I'm currently studying **Computer Science Engineering (Data Science)** at [D.J. Sanghvi College of Engineering.](https://www.djsce.ac.in/)
-- 🌱 I'm currently learning Machine Learning, Front-End Web Development and Data Structures-Algorithms.
-- 💬 Ask me about UI designs, YouTube and Pokémon!
+- 📚 I'm a **Computer Science Engineering (Data Science)** graduate (2024) from [D.J. Sanghvi College of Engineering.](https://www.djsce.ac.in/)
+- 🌱 Throughout my course, I've learnt about Machine Learning, Artificial Intelligence, Social Network Analysis, Front-End Web Development and Data Structures-Algorithms.
+- 💬 I love talking about UI designs, YouTube, Touhou Project and Pokémon!
 
 <!-- Contact -->
 <p><strong>📫 Connect with me: </strong>&nbsp;
-<a href="mailto:samarth.tumdi@gmail.com"><img width="25" src="./assets/google-gmail.svg"/></a> &nbsp;
+<a href="mailto:samarthtumdi.official@gmail.com"><img width="25" src="./assets/google-gmail.svg"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/samarth-tumdi-4474b51b0/"><img width="25" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"/></a> &nbsp;
 </p>
 
@@ -39,6 +39,7 @@
   <img style="width: 35px;" src="assets/numpy.png" alt="NumPy" title="NumPy"/>&nbsp; 
   <img style="width: 35px;" src="assets/pandas.png" alt="Pandas" title="Pandas"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" title="TailwindCSS"/>&nbsp; 
+  <img style="width: 35px;" src="https://skillicons.dev/icons?i=js,html,css,wasm)" alt="TailwindCSS" title="TailwindCSS" />&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL"/>&nbsp; 
   <img style="width: 35px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" title="NodeJS"/>&nbsp; 
 </p>
